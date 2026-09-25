@@ -4,11 +4,8 @@
     "title": "Your first instruction",
     "book": "python-programming-from-first-principles",
     "chapter": "01-first-python-program",
-    "source": "books/001-python-foundations/manuscript/01-python-data-dynamic-humanities/first-instruction.ipynb",
-    "file": "01-first-instruction.ipynb",
-    "section": "make-a-computer-follow-your-instructions",
-    "legacyNotebook": "your-first-python-program.ipynb",
     "path": "python-programming-from-first-principles/01-first-python-program/01-first-instruction.ipynb",
+    "section": "make-a-computer-follow-your-instructions",
     "sha256": "ec82e013505a9fd449e6c69c23a9a2f0011a2f2d636a651306983ef2e81d3bde"
   },
   {
@@ -16,23 +13,17 @@
     "title": "Chapter practice",
     "book": "python-programming-from-first-principles",
     "chapter": "01-first-python-program",
-    "source": "books/001-python-foundations/manuscript/01-python-data-dynamic-humanities/guided-notebook.ipynb",
-    "file": "02-chapter-practice.ipynb",
-    "section": "print-and-your-first-instruction",
-    "legacyNotebook": "chapter-1-practice.ipynb",
     "path": "python-programming-from-first-principles/01-first-python-program/02-chapter-practice.ipynb",
-    "sha256": "0a825aff3b2b139f4ca2753e876691205155f8a1e0e982c71eb153fd42f0eb38"
+    "section": "understanding-print",
+    "sha256": "497ce283b84ad603a55fa71f23555383c154a5ba7832cca052357b60876722db"
   },
   {
     "id": "first-instruction-source",
     "title": "First instruction — Python source",
     "book": "python-programming-from-first-principles",
     "chapter": "01-first-python-program",
-    "source": "books/001-python-foundations/code/01-first-python-program/snippets/01_hello_python.py",
-    "file": "01-first-instruction.py",
-    "section": "make-a-computer-follow-your-instructions",
-    "legacyNotebook": null,
     "path": "python-programming-from-first-principles/01-first-python-program/01-first-instruction.py",
+    "section": "make-a-computer-follow-your-instructions",
     "sha256": "2c9b539fd3fa6fb012c2c7281ebae63fe96ab2ea30039069f4866326ecb3e32f"
   },
   {
@@ -40,11 +31,8 @@
     "title": "Complete announcement — Python source",
     "book": "python-programming-from-first-principles",
     "chapter": "01-first-python-program",
-    "source": "books/001-python-foundations/code/01-first-python-program/cultural_program.py",
-    "file": "02-announcement.py",
-    "section": "print-and-your-first-instruction",
-    "legacyNotebook": null,
     "path": "python-programming-from-first-principles/01-first-python-program/02-announcement.py",
+    "section": "understanding-print",
     "sha256": "4d8725c88876df0eb0f665bc6e6cee17924314fe90c543e9006c8b4aa1a948c1"
   },
   {
@@ -52,11 +40,8 @@
     "title": "Text and whole numbers — Python source",
     "book": "python-programming-from-first-principles",
     "chapter": "01-first-python-program",
-    "source": "books/001-python-foundations/code/01-first-python-program/snippets/03_strings_and_integers.py",
-    "file": "03-strings-and-integers.py",
-    "section": "strings-integers-and-comments",
-    "legacyNotebook": null,
     "path": "python-programming-from-first-principles/01-first-python-program/03-strings-and-integers.py",
+    "section": "strings-integers-and-comments",
     "sha256": "2b901bf868e220038fbe3814f96956eee3cfa96e7a5bb648434ddb6c6860eafd"
   }
 ]
