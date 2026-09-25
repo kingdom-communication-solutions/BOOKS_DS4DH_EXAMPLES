@@ -9,12 +9,21 @@
     "sha256": "ec82e013505a9fd449e6c69c23a9a2f0011a2f2d636a651306983ef2e81d3bde"
   },
   {
+    "id": "understanding-print",
+    "title": "Understanding print()",
+    "book": "python-programming-from-first-principles",
+    "chapter": "01-first-python-program",
+    "path": "python-programming-from-first-principles/01-first-python-program/understanding-print.ipynb",
+    "section": "understanding-print",
+    "sha256": "fe8fa0df45c2c31dd6aa551354734c67603a8f590bc27798ba364c2741f80bff"
+  },
+  {
     "id": "chapter-practice",
     "title": "Chapter practice",
     "book": "python-programming-from-first-principles",
     "chapter": "01-first-python-program",
     "path": "python-programming-from-first-principles/01-first-python-program/02-chapter-practice.ipynb",
-    "section": "understanding-print",
+    "section": "apply-build-your-own-announcement",
     "sha256": "497ce283b84ad603a55fa71f23555383c154a5ba7832cca052357b60876722db"
   },
   {
