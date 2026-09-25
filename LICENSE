@@ -1,0 +1,29 @@
+Practical Data Science with Python for the Dynamic Humanities
+Dual-License Notice
+
+Copyright (c) 2026 Kingdom Communication Solutions and Philippe Tamla
+
+Unless a file or directory states otherwise:
+
+1. Written educational content—including prose, book chapters, course notes,
+   exercises, diagrams, and original instructional media metadata—is licensed
+   under the Creative Commons Attribution 4.0 International License (CC BY 4.0):
+   https://creativecommons.org/licenses/by/4.0/legalcode
+
+2. Source code—including Python code, notebooks when used as executable code,
+   tests, build scripts, configuration, and automation—is licensed under the
+   Apache License, Version 2.0:
+   https://www.apache.org/licenses/LICENSE-2.0
+
+3. Third-party datasets, images, quotations, fonts, and other assets retain
+   their original licenses. Their provenance and reuse conditions must be
+   recorded alongside the asset or in the dataset/asset registry. No rights are
+   granted beyond those provided by the original rights holder.
+
+Attribution should identify the series, the relevant author or contributor,
+the edition or release, and the canonical repository URL.
+
+If the classification of a mixed prose-and-code file is unclear, both licenses
+apply to their respective portions. This notice does not override a more
+specific license declaration contained in an individual file or directory.
+
