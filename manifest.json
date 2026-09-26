@@ -19,12 +19,12 @@
   },
   {
     "id": "chapter-practice",
-    "title": "Chapter practice",
+    "title": "Practice: Write Your Own Announcement",
     "book": "python-programming-from-first-principles",
     "chapter": "01-first-python-program",
     "path": "python-programming-from-first-principles/01-first-python-program/02-chapter-practice.ipynb",
-    "section": "apply-build-your-own-announcement",
-    "sha256": "497ce283b84ad603a55fa71f23555383c154a5ba7832cca052357b60876722db"
+    "section": "practice-write-your-own-announcement",
+    "sha256": "88571d916d20860ad92ba7dcd71ca5b68302215585c76ae4767af70ecd3d4c8b"
   },
   {
     "id": "first-instruction-source",
@@ -52,5 +52,131 @@
     "path": "python-programming-from-first-principles/01-first-python-program/03-strings-and-integers.py",
     "section": "strings-integers-and-comments",
     "sha256": "2b901bf868e220038fbe3814f96956eee3cfa96e7a5bb648434ddb6c6860eafd"
+  },
+  {
+    "id": "python-and-the-interpreter",
+    "title": "Python and the Interpreter",
+    "book": "python-programming-from-first-principles",
+    "chapter": "02-how-python-runs-your-code",
+    "path": "python-programming-from-first-principles/02-how-python-runs-your-code/python-and-the-interpreter.ipynb",
+    "section": "python-and-the-interpreter",
+    "sha256": "e37bfcb732b88277ad4ff68a371ca2b64d5131c45e1eaa05361ebec291070353"
+  },
+  {
+    "id": "saving-code-in-a-source-file",
+    "title": "Saving Code in a Source File",
+    "book": "python-programming-from-first-principles",
+    "chapter": "02-how-python-runs-your-code",
+    "path": "python-programming-from-first-principles/02-how-python-runs-your-code/saving-code-in-a-source-file.ipynb",
+    "section": "saving-code-in-a-source-file",
+    "sha256": "bb3ead5820e09bc2d69efdc8f5f1274fd1796b5849d4036995a0a442ca2b034e"
+  },
+  {
+    "id": "values-and-variables",
+    "title": "Values and Variables",
+    "book": "python-programming-from-first-principles",
+    "chapter": "04-working-with-values",
+    "path": "python-programming-from-first-principles/04-working-with-values/values-and-variables.ipynb",
+    "section": "values-and-variables",
+    "sha256": "57f34a7cb27277c2076ec70c8fb9b3165735cbfdfa988eb7576edc41386c10f0"
+  },
+  {
+    "id": "expressions-and-calculations",
+    "title": "Expressions and Calculations",
+    "book": "python-programming-from-first-principles",
+    "chapter": "04-working-with-values",
+    "path": "python-programming-from-first-principles/04-working-with-values/expressions-and-calculations.ipynb",
+    "section": "expressions-and-calculations",
+    "sha256": "e7a75d8887680fe84804f8525f8cafc2449e52f162da8f28df5a8410d03e15d4"
+  },
+  {
+    "id": "reading-user-input",
+    "title": "Reading User Input",
+    "book": "python-programming-from-first-principles",
+    "chapter": "04-working-with-values",
+    "path": "python-programming-from-first-principles/04-working-with-values/reading-user-input.ipynb",
+    "section": "reading-user-input",
+    "sha256": "426207b2228ced2fcf2567e5cafc4808fa6afccebd25eb1c4fadbc91316c09cd"
+  },
+  {
+    "id": "converting-between-text-and-numbers",
+    "title": "Converting Between Text and Numbers",
+    "book": "python-programming-from-first-principles",
+    "chapter": "04-working-with-values",
+    "path": "python-programming-from-first-principles/04-working-with-values/converting-between-text-and-numbers.ipynb",
+    "section": "converting-between-text-and-numbers",
+    "sha256": "decaa12039c645bc294cbaec02f0a6c3c1a7efcee82240a7de08925f4281bcbd"
+  },
+  {
+    "id": "building-and-formatting-messages",
+    "title": "Building and Formatting Messages",
+    "book": "python-programming-from-first-principles",
+    "chapter": "05-working-with-text",
+    "path": "python-programming-from-first-principles/05-working-with-text/building-and-formatting-messages.ipynb",
+    "section": "building-and-formatting-messages",
+    "sha256": "3ec634626b1230036ba5a03428099e257e3031df409af453e33788cdf484b9a3"
+  },
+  {
+    "id": "finding-and-changing-text",
+    "title": "Finding and Changing Text",
+    "book": "python-programming-from-first-principles",
+    "chapter": "05-working-with-text",
+    "path": "python-programming-from-first-principles/05-working-with-text/finding-and-changing-text.ipynb",
+    "section": "finding-and-changing-text",
+    "sha256": "7a8de3067364374ac7558b370cb75a2747384760611a244fe37c821dc4c6cd66"
+  },
+  {
+    "id": "working-with-multilingual-text",
+    "title": "Working With Multilingual Text",
+    "book": "python-programming-from-first-principles",
+    "chapter": "05-working-with-text",
+    "path": "python-programming-from-first-principles/05-working-with-text/working-with-multilingual-text.ipynb",
+    "section": "working-with-multilingual-text",
+    "sha256": "f6081ab0aae4d4e6001f7203daa3e7f3d98d172139c3436650fffa9c21aaeb91"
+  },
+  {
+    "id": "reusing-pythons-built-in-modules",
+    "title": "Reusing Python’s Built-in Modules",
+    "book": "python-programming-from-first-principles",
+    "chapter": "06-using-modules-and-packages",
+    "path": "python-programming-from-first-principles/06-using-modules-and-packages/reusing-pythons-built-in-modules.ipynb",
+    "section": "reusing-pythons-built-in-modules",
+    "sha256": "41d6377665ab7c486007b7a183154369e3a05732452b6874c006f29e9b29170f"
+  },
+  {
+    "id": "understanding-import",
+    "title": "Understanding import",
+    "book": "python-programming-from-first-principles",
+    "chapter": "06-using-modules-and-packages",
+    "path": "python-programming-from-first-principles/06-using-modules-and-packages/understanding-import.ipynb",
+    "section": "understanding-import",
+    "sha256": "42fb85c4b0034e70412ef76872eb6b2070fb3a7b15124d32196a936b58c91db6"
+  },
+  {
+    "id": "installing-and-using-a-package",
+    "title": "Installing and Using a Package — local source",
+    "book": "python-programming-from-first-principles",
+    "chapter": "06-using-modules-and-packages",
+    "path": "python-programming-from-first-principles/06-using-modules-and-packages/visitor_total.py",
+    "section": "installing-and-using-a-package",
+    "sha256": "37d9ee939efbac56a1bf03a7ae595d4ce53e98517575167f67c4eedc980c38e3"
+  },
+  {
+    "id": "package-requirements.txt",
+    "title": "Package example — requirements.txt",
+    "book": "python-programming-from-first-principles",
+    "chapter": "06-using-modules-and-packages",
+    "path": "python-programming-from-first-principles/06-using-modules-and-packages/requirements.txt",
+    "section": "recording-package-versions",
+    "sha256": "028eb774bed0e98a0be27baca6b00ea39776bf02f04adc678b3d25b7f2c8907f"
+  },
+  {
+    "id": "package-README.md",
+    "title": "Package example — README.md",
+    "book": "python-programming-from-first-principles",
+    "chapter": "06-using-modules-and-packages",
+    "path": "python-programming-from-first-principles/06-using-modules-and-packages/README.md",
+    "section": "recording-package-versions",
+    "sha256": "d3f05729a85193d0715cbf369eceeabbbcb126f6870850e58e9bb223756b10c3"
   }
 ]
